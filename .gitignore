@@ -1,0 +1,6 @@
+raw/
+pending_analysis.json
+pending_batch.json
+analyzed_batch.json
+__pycache__/
+.DS_Store
