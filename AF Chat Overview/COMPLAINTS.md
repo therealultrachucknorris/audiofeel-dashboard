@@ -1,7 +1,7 @@
 # AudioFeel — Complaint Analysis
-**Generated:** 2026-05-13 13:11
-**Period:** 2026-02-19 to 2026-05-13
-**Total Negative Conversations:** 79 (6.1%)
+**Generated:** 2026-05-28 11:20
+**Period:** 2026-02-19 to 2026-05-28
+**Total Negative Conversations:** 105 (6.0%)
 
 ---
 
@@ -9,25 +9,44 @@
 
 | Reason | Count |
 |---|---|
-| מחיר / עלות | 18 |
-| איכות (לא חוסם / לא מרגיש הבדל) | 11 |
-| נוחות (כאב / נופל) | 11 |
-| מוצר שגוי (צבע / דגם לא נכון) | 5 |
+| מחיר / עלות | 26 |
+| איכות (לא חוסם / לא מרגיש הבדל) | 20 |
+| נוחות (כאב / נופל) | 16 |
+| מוצר שגוי (צבע / דגם לא נכון) | 6 |
 | משלוח (לא הגיע / איחור) | 3 |
 
 ## Complaint Breakdown by Platform
 
 | Platform | Negative Count | Negative % |
 |---|---|---|
-| WHATSAPP | 63 | 9% |
-| INSTAGRAM | 12 | 4% |
-| LIVE_CHAT | 4 | 1% |
+| WHATSAPP | 82 | 9% |
+| INSTAGRAM | 16 | 4% |
+| LIVE_CHAT | 7 | 2% |
 
 ## Escalations Needing Attention
 
 | Date | Customer | Platform | Topic | Summary |
 |---|---|---|---|---|
-| 2026-05-13 | אלמוג | WHATSAPP | complaint | אלמוג on WHATSAPP: היי |
+| 2026-05-27 | 972587323301 | WHATSAPP | complaint | 972587323301 on WHATSAPP: קבלתי את השרשרת אחזיר רק את האזניות |
+| 2026-05-27 | Naama | WHATSAPP | complaint | Naama on WHATSAPP: הי בוקר טוב |
+| 2026-05-27 | 🇮🇱 Morliz 🇩🇪 | WHATSAPP | complaint | 🇮🇱 Morliz 🇩🇪 on WHATSAPP: היי יש לי שאלות -  האם במארז של ה 3 ניתן לבחור בצבעים  |
+| 2026-05-26 | Naama Shalev | WHATSAPP | complaint | Naama Shalev on WHATSAPP: בוקר טוב, שלחתי לכם מייל ושולחת גם כאן. הזמנתי מסנני ר |
+| 2026-05-26 | tal segal | WHATSAPP | complaint | tal segal on WHATSAPP: בוקר טוב |
+| 2026-05-26 | Nili Chen Borochov | WHATSAPP | complaint | Nili Chen Borochov on WHATSAPP: האם זה מוצר ייחודי המיוצר על ידכם או שאתם משווקי |
+| 2026-05-25 | 972528409930 | WHATSAPP | complaint | 972528409930 on WHATSAPP: באיזה כתובת? |
+| 2026-05-25 | Ofir | WHATSAPP | complaint | Ofir on WHATSAPP: אהלן,  קיבלתי היום את המסנני סאונד,  אני חייב להגיד שאני מאוכז |
+| 2026-05-24 | נועה | WHATSAPP | complaint | נועה on WHATSAPP: כשאני שמה בדרך כלל אוזניות עם סיליקון שאתם מראים, זה נופל מהאו |
+| 2026-05-21 | 972545793050 | WHATSAPP | shipping | 972545793050 on WHATSAPP: שלום |
+| 2026-05-20 | קארין אלחנתי רפואה סינית | WHATSAPP | complaint | קארין אלחנתי רפואה סינית on WHATSAPP: שלום, אני אשמח לשאול אם זה מתאים גם לאוזני |
+| 2026-05-19 | ליהיא טל | WHATSAPP | complaint | ליהיא טל on WHATSAPP: היי אני מעוניינת להחזיר את האטמים שהזמנתי לפני שבוע וחצי |
+| 2026-05-18 | Snir Zehavi | WHATSAPP | complaint | Snir Zehavi on WHATSAPP: שלום |
+| 2026-05-17 | Israel (14:53 17.05) | LIVE_CHAT | complaint | Israel (14:53 17.05) on LIVE_CHAT: בואו נדבר |
+| 2026-05-17 | ליאַן🌞 | INSTAGRAM | complaint | ליאַן🌞 on INSTAGRAM: היי מה קורהה הגיע לי ההזמנה והייתי שמחה להחזיר אותה איך מתב |
+| 2026-05-15 | Support for Business | INSTAGRAM | general | Support for Business on INSTAGRAM: ⚠️ הודעה חשובה:  הודענו לך שוב ושוב על הפרות  |
+| 2026-05-14 | Dan Gutman | WHATSAPP | complaint | Dan Gutman on WHATSAPP: שלום |
+| 2026-05-13 | Rehovot, Israel (15:08 13.05) | LIVE_CHAT | complaint | Rehovot, Israel (15:08 13.05) on LIVE_CHAT: יש לי שאלה על המוצר |
+| 2026-05-13 | Moriha Gabay | WHATSAPP | complaint | Moriha Gabay on WHATSAPP: היי |
+| 2026-05-13 | MAX MARKO | WHATSAPP | complaint | MAX MARKO on WHATSAPP: שלום |
 | 2026-05-11 | ניתי | WHATSAPP | complaint | ניתי on WHATSAPP: שלום... |
 | 2026-05-04 | תמר ברזון | WHATSAPP | complaint | תמר ברזון on WHATSAPP: בוקר טוב. נמצאה ההחזרה? |
 | 2026-05-03 | תמר ברזון | WHATSAPP | complaint | תמר ברזון on WHATSAPP: הי. שלחתי החזרה של זוג אטמים וראיתי שהגיע אליכם. מתי צפוי |
@@ -38,22 +57,3 @@
 | 2026-04-28 | Noya Zion | נוֹיָה צִיוֹן | INSTAGRAM | greeting | Noya Zion / נוֹיָה צִיוֹן on INSTAGRAM: הייי!! מה נשמע? קוראים לי נויה אני מנהלת |
 | 2026-04-28 | Eden🌻 | WHATSAPP | complaint | Eden🌻 on WHATSAPP: היי מה נשמע? אני מעוניינת לרכוש אוזניות שלכם וראיתי באתר שיש  |
 | 2026-04-27 | 972526660478 | WHATSAPP | complaint | 972526660478 on WHATSAPP: תודה אאסוף אותן היום בצהריים |
-| 2026-04-27 | גפן | WHATSAPP | complaint | גפן on WHATSAPP: שלום |
-| 2026-04-26 | נופר❤️ | WHATSAPP | complaint | נופר❤️ on WHATSAPP: האם האטמים מותאמים לטנטון?  יש לי אירוע ואני צריכה הגנה לאוז |
-| 2026-04-26 | 972556668892 | WHATSAPP | complaint | 972556668892 on WHATSAPP: אהלן, קניתי את האטמים שלכם לפני שבוע, ניסיתי ואני לא מ |
-| 2026-04-24 | Orit O | WHATSAPP | complaint | Orit O on WHATSAPP: הי, מבקשת לדעת בהקדם מה לגבי הזיכוי בבקשה. תודה |
-| 2026-04-23 | Tal Spivak | INSTAGRAM | support | Tal Spivak on INSTAGRAM: מספר אוזניות לניסיון וכתבה...  ואחת לשנה אנחנו עושים מס |
-| 2026-04-23 | Mika Zaharovich | WHATSAPP | complaint | Mika Zaharovich on WHATSAPP: הי, אשמח לשוחח עם נציג. לבת שלי יש מיזופוניה. קנינו |
-| 2026-04-22 | Tal Spivak | INSTAGRAM | greeting | Tal Spivak on INSTAGRAM: רוצים אייטם באתר מנהלי שיווק מצייצים? Shivuk.me |
-| 2026-04-20 | Tal Spivak | INSTAGRAM | complaint | Tal Spivak on INSTAGRAM: הוידיאו עם ג'וני ממש גרם לי לרצות את האוזניות. |
-| 2026-04-19 | Barak Ben-Ami | WHATSAPP | support | Barak Ben-Ami on WHATSAPP: היי מה נשמע? |
-| 2026-04-18 | ג׳ורג׳ | WHATSAPP | complaint | ג׳ורג׳ on WHATSAPP: שלום |
-| 2026-04-14 | Talya | WHATSAPP | complaint | Talya on WHATSAPP: היי |
-| 2026-04-13 | Amit Soul | WHATSAPP | complaint | Amit Soul on WHATSAPP: שלום |
-| 2026-04-13 | Orit O | WHATSAPP | complaint | Orit O on WHATSAPP: הי, קיבלתי מייל ביטול וזיכוי, אבל עוד לא ראיתי את זה באשראי. |
-| 2026-04-09 | Rotem Dan | WHATSAPP | complaint | Rotem Dan on WHATSAPP: היי |
-| 2026-04-05 | Nurit Tolnai | WHATSAPP | complaint | Nurit Tolnai on WHATSAPP: שלום שמי נורית , נשמע שמתאים לי המכשיר , יש לי חשש שלא |
-| 2026-04-04 | ירדן יוסף | WHATSAPP | complaint | ירדן יוסף on WHATSAPP: היי ביצעתי הזמנה של דגם zen פעמיים לבעלי וגיסי. בעלי לא מ |
-| 2026-04-03 | נטע | WHATSAPP | complaint | נטע on WHATSAPP: Link:   Hello! Can I get more info on this? |
-| 2026-04-02 | Ramat Yishai, Israel (17:01 02.04) | LIVE_CHAT | complaint | Ramat Yishai, Israel (17:01 02.04) on LIVE_CHAT: בואו נדבר |
-| 2026-04-01 | Stav Atia Rokni | WHATSAPP | complaint | Stav Atia Rokni on WHATSAPP: תודה רבה על ההצעה אני לא בטוחה שצריכה את דגם הלייב  |
